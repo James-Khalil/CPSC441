@@ -1,0 +1,3 @@
+this is a text file for the tutorial demonstration
+This line has 22 bytes
+dddd
